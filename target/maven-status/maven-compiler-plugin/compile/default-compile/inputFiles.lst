@@ -18,5 +18,6 @@ C:\Users\luisl\Desktop\api\src\main\java\com\example\hotelapi\repository\Pagamen
 C:\Users\luisl\Desktop\api\src\main\java\com\example\hotelapi\model\Pagamento.java
 C:\Users\luisl\Desktop\api\src\main\java\com\example\hotelapi\controller\QuartoController.java
 C:\Users\luisl\Desktop\api\src\main\java\com\example\hotelapi\model\Hospede.java
+C:\Users\luisl\Desktop\api\src\main\java\com\example\hotelapi\config\WebConfig.java
 C:\Users\luisl\Desktop\api\src\main\java\com\example\hotelapi\model\PaymentMethod.java
 C:\Users\luisl\Desktop\api\src\main\java\com\example\hotelapi\controller\HospedeController.java
